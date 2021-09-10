@@ -1,0 +1,10 @@
+# Prioritize for Demo (top - most important, bottom- least)
+
+1. We want developers to have all the technical information they need to use the API (well made documentation is holy grail for developers, there would be a lot of confusion with poorly documented API, more freedom for errors and bugs being made)
+2. A contact page for prospective users to get in contact and/or request API keys (it is hightly important to make it easy for developers to contact API team for keys, questions, as it is crucial part os using API, especially if keys are required, or there is an error with endpoints to report)
+3. API documentation should be searchable (for faster development of API and more feedback, we should make sure many develoeprs are using it, therefore API must be easily searchable)
+4. We expect to regularly add new endpoints and to extend existing endpoints, so the structure needs to make these updates relatively painless (regular updates are very important for users and for future of the API, it's smooth developement and expansion)
+5. We should have examples of API calls in multiple language (e.g. curl, python, node, etc.) (this adds to great quality of documentation and could catch an eye of more developersusing differnet languages)
+6. Developers should be able to make requests directly in the page when they provide their API key (those are fun to have when developers want to try out the API before suing it in their code, but not for a must have)
+7. We want the page to be very visually polished as this is seen by prospective clients (important for visual aspect, but quality of documentation is more important)
+8. We want to communicate the high level information about the API for non-technical users to understand what it's for. A common scenario would be that a developer encounters the documentation and wants to convince their bosses that they should use it. (a great developer with solid communication skills will be able to explain in their own words any well-written API to their superiors)

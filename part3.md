@@ -1,0 +1,6 @@
+# Explain in your own words, what Flexbox and CSS Grid are:
+
+Flexbox's key feature is that it allows to program items in a flexible layout (inside a container). As long as items inside a flexbox are assigned a specific space, those items can shrink or expand accordingly. In comparison to CSS Grid, Flexbox has a one-dimentional layout, so items are being aligned along one axis, while CSS Grid has a two-dimentional layout where items could be aligned either horizontally or vertically (X nad  Y axis).
+CSS Grid allows to assign grid areas of different sizes and position the items in sections, it helps with precision when assigning a space to them. CSS Grid is at times more predictable in comparison to Flexbox, in a way that developer is able to assign width and height of each item's space. If developers start assigning specific mesures to space in Flexbox, then Flexbox will loose its purpose of 'flexibility'.
+
+Overall, it depends on the project, which one should be used, developers could also use Flexbox and CSS Grid together. 
